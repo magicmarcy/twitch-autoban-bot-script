@@ -1,4 +1,4 @@
-# Twitch-Autoban Scripts
+# Twitch-Autoban New Hate-Follower
 I was the moderator of a streamer friend of mine on his channel. Among other things, it was my job there to protect the channel from spam and bots. 
 
 ## Problem
