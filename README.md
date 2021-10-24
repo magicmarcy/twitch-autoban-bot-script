@@ -15,7 +15,7 @@ You can of course also use the script for other cases. But please make sure that
 ## Requirements
 In order to be able to use the script, you have to be at least a moderator in the corresponding channel and there has to be a bot who postet a message in the channel if a new follower appears.
 
-## Technically-Requirements
+## Technical-Requirements
 The script runs over Node.js and uses especially the "tmi.js" which is necessary for the connection to Twitch. So you can simply run it locally on your computer while you are present in the stream and then simply stop it again. So you don't need an external hoster for it.
 
 ## Additionals
