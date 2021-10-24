@@ -1,0 +1,1 @@
+# twitch-autoban-bot-script
